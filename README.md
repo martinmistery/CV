@@ -57,6 +57,10 @@ Apassionat per la ciberseguretat i la programació tant front-end com back-end.
 ### Codi en Línia
 `sudo apt-get install nom_paquet`
 ### Codi formatat
+```bash
+# Actualitzar paquets en Ubuntu
+sudo apt update && sudo apt upgrade
+```
 
 ---
 

@@ -1,4 +1,5 @@
 # 📂 Martí Aguilera - Tècnic en Sistemes Microinformàtics i Xarxes 💻
+<img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="150" height="150" alt="Icon Programmador">
 
 ## Sobre jo👨‍💻  
 Sóc **Tècnic en Sistemes Microinformàtics i Xarxes** amb experiència en hardware i software.  
@@ -33,7 +34,7 @@ Apassionat per la ciberseguretat i la programació tant front-end com back-end.
 
 ---
 
-## 🌍 Idiomes    
+## 🌍 Idiomes   
 
 | Idioma  | Nivell |
 |---------|--------|
@@ -51,4 +52,55 @@ Apassionat per la ciberseguretat i la programació tant front-end com back-end.
 **StackOverflow:** [stackoverflow.com/sike](https://stackoverflow.com/users/24769913/sike)  
 
 ---
+## 📜 Exemples de Codi
 
+### Codi en Línia
+`sudo apt-get install nom_paquet`
+### Codi formatat
+
+---
+
+## 💬 Citació
+> Si sents por de fallar, probablement fallaràs - Kobe Bryant
+
+---
+
+## 🗺️ GeoJson
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              1.590698661098429,
+              41.59643712469983
+            ],
+            [
+              1.590698661098429,
+              41.568351903499064
+            ],
+            [
+              1.6431562052728168,
+              41.568351903499064
+            ],
+            [
+              1.6431562052728168,
+              41.59643712469983
+            ],
+            [
+              1.590698661098429,
+              41.59643712469983
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
+```
